@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="local.worldrelic.files">
+  <application>
+    <activity android:name="local.worldrelic.files.ImportActivity" android:exported="false"
+      android:configChanges="orientation|screenSize|keyboardHidden"
+      android:theme="@android:style/Theme.Material.Light.NoActionBar" android:label="选择外部世界和字体" />
+  </application>
+</manifest>
